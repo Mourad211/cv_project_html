@@ -1,4 +1,3 @@
-# cv_project_html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -319,6 +318,20 @@
                     MS products
                 </li>
             </ul>
+    </div>
+    <hr>
+    <div class="social">
+        <h3 style="color: mediumspringgreen;">
+            Social Preferences
+        </h3>
+        <ul>
+            <li>
+                <a href="https://github.com/Mourad211">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/abdelrhmanmurad21/">LinkedIn</a>
+            </li>
+        </ul>
     </div>
 </body>
 </html>
